@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: ecommstorecontainer
-      image: tirupathi123/frontend-app
+      image: tirupathi123/frontendapp
       ports:
       - containerPort: 80
 ---
